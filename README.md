@@ -1,0 +1,2 @@
+# Micrograd
+Basic Back Propogation
